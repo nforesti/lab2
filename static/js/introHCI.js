@@ -13,6 +13,7 @@ function initializePage() {
 		$('.jumbotron h1').text("Javascript is connected");
     });
     $("a.thumbnail").click(projectClick);
+    
 
 	// Add any additional listeners here
 	// example: $("#div-id").click(functionToCall);
