@@ -32,3 +32,38 @@ body {
      position: absolute;
      z-index: -1;	
 }
+
+p{
+     font-variant: small-caps;
+}
+
+.project p{
+     font-variant: small-caps;
+     margin-left: auto;
+     margin-right: auto;
+     background-color: #BFC4D4;
+     padding: 1em;
+     border-radius: .5em;
+     width: 75%;
+}
+
+#project1{
+     font-variant: small-caps;
+
+}
+
+.project{
+     border-radius: 1em;
+     margin-left: 1em;
+     margin-bottom: 1em;
+     background-color: #6C7387;
+     padding: 1.5em;
+     padding-bottom: .5em;
+     width: 50%;
+     text-align: center;
+}
+
+button{
+     background-color: #1CB0F6;
+     color: white;
+}
